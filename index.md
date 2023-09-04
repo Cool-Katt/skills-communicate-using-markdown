@@ -7,3 +7,7 @@
 ```javascript
 console.log('Pew Pew')
 ```
+
+- [ ] Kill general Kenobi
+- [ ] ???
+- [ ] Profit
